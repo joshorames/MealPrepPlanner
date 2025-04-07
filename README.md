@@ -26,4 +26,5 @@ Before Running:
       format like:
             your_email@gmail.com
             your_app_password (16-character password form google)
+  
   ![image](https://github.com/user-attachments/assets/c4b03fc4-cef2-4dca-96f9-9bcd1a5f8335)
